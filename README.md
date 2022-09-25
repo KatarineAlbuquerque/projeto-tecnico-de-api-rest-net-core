@@ -7,7 +7,7 @@
 
 <img src="projeto.png" alt="Projeto .Net Core" />
 
-## Tecnologias Utilizada
+## Tecnologias Utilizadas
 
 ##### Visual Studio 2022
 ##### .Net Core
