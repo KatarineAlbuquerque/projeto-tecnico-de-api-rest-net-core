@@ -5,8 +5,7 @@ namespace ProjetoAPI.Context
     public class VendaContext
     {
         private Pedido pedido;
-        private List<Pedido> pedidos = new List<Pedido>();
-
+        
         public Pedido AdicionarVenda()
         {
             Pessoa vendedor1 = new Pessoa(1, "011.022.000-02", "Paulo", "paulo@email.com", "111111");
@@ -26,9 +25,7 @@ namespace ProjetoAPI.Context
             pedido.Produtos = new List<Produto>();
             pedido.Produtos.Add(produto1);
             pedido.Produtos.Add(produto2);
-
-            pedidos.Add(pedido);
-
+                        
             return pedido;
         }
 
@@ -52,8 +49,6 @@ namespace ProjetoAPI.Context
             pedido.Produtos.Add(produto1);
             pedido.Produtos.Add(produto2);
 
-            pedidos.Add(pedido);
-
             return pedido;
         }
 
@@ -76,8 +71,6 @@ namespace ProjetoAPI.Context
             pedido.Produtos = new List<Produto>();
             pedido.Produtos.Add(produto1);
             pedido.Produtos.Add(produto2);
-
-            pedidos.Add(pedido);
 
             return pedido;
         }

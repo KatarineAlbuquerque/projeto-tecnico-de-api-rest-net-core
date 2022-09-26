@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1lbpMGQ1QXlzKNrJdYLLSBhpZyfdOJEWGkcYYndDl3KyckZ9i3oXVMFm62aXb8C1qvX/D9AywQ+BAFf3qkdeg==",
+  "dgSpecHash": "axoEiLsreJFejAfDvdeouYPWOHFzq0zQ/7eDopnT+NlWgh9GZQEWjVIL+Z1iaZ/vjNg5qnR78Fy03RDF9BWI6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\ProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj",
+  "projectFilePath": "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\projeto-tecnico-de-api-rest-net-core\\ProjetoAPI\\ProjetoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kba28\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\kba28\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

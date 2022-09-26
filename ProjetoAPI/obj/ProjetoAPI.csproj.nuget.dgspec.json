@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\ProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj": {}
+    "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\projeto-tecnico-de-api-rest-net-core\\ProjetoAPI\\ProjetoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\ProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj": {
+    "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\projeto-tecnico-de-api-rest-net-core\\ProjetoAPI\\ProjetoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\ProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\projeto-tecnico-de-api-rest-net-core\\ProjetoAPI\\ProjetoAPI.csproj",
         "projectName": "ProjetoAPI",
-        "projectPath": "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\ProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj",
+        "projectPath": "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\projeto-tecnico-de-api-rest-net-core\\ProjetoAPI\\ProjetoAPI.csproj",
         "packagesPath": "C:\\Users\\kba28\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\ProjetoAPI\\ProjetoAPI\\obj\\",
+        "outputPath": "C:\\Users\\kba28\\OneDrive\\Área de Trabalho\\Aplicativos\\GitHub Repository\\projeto-tecnico-de-api-rest-net-core\\ProjetoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
